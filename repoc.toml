@@ -3,4 +3,4 @@ name="nxp-repo"
 version="0.1"
 
 [packages]
-edit=["edit.x86_64.nxp", "1.2.0"]
+edit=["edit.x86_64.nxp", "1.2.0", "Microsoft"]
