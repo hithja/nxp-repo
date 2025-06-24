@@ -9,7 +9,7 @@ First, create `PACKAGE NAME` directory. Then create 2 directories and meta file 
 `meta.toml` must contain `name`, `author`, `version` and `dep` options.
 ```toml
 # meta.toml example
-name="your super package" # Package name
+name="your awsome package" # Package name
 version="1.0.0" # Package version
 author="You" # Package author
 dep=[] # Package dependencies (not working yet)
