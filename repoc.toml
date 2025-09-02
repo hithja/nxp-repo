@@ -4,3 +4,4 @@ version="0.1"
 
 [packages]
 edit=["edit.x86_64.nxp", "1.2.0", "Microsoft"]
+shely=["shely.nxp", "1.0.0", "hithja"]
